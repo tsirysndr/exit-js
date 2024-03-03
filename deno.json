@@ -1,0 +1,5 @@
+{
+  "name": "@tsirysndr/exit-js",
+  "version": "0.1.0",
+  "exports": "./mod.ts"
+}
